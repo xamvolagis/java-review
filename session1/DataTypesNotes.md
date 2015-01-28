@@ -42,7 +42,7 @@ public class Car
     this.color = newColor;
   }
   
-  /**
+ /**
   * An accessor method. Returns information about the car's state. 
   */
   public int getPrice()
