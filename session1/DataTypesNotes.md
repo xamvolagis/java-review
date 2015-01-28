@@ -13,7 +13,7 @@
         * These are values
       * Methods
         * These describe behavior
-*A quick example: 
+* A quick example: 
 ```
 public class Car
 {
