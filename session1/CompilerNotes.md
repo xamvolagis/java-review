@@ -11,7 +11,7 @@
 
 
 To run a Java program
-``` 
-javac Test.java
-java Test         //invoke the Java virtual machine with the command java
+``` java
+javac Test.java   // compile .java files into .class files (containing bytecode) for the JVM
+java Test         // invoke the Java virtual machine with the command java
 ```       
